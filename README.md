@@ -13,8 +13,8 @@ Static website for the ViralOS TikTok developer-app review.
 Use these URLs in the TikTok Developer Portal:
 
 - Website: `https://YOUR-USERNAME.github.io/viralos/`
-- Privacy Policy: `https://YOUR-USERNAME.github.io/viralos/privacy.html`
-- Terms of Service: `https://YOUR-USERNAME.github.io/viralos/terms.html`
+- Privacy Policy: `https://YOUR-USERNAME.github.io/viralos/privacy/`
+- Terms of Service: `https://YOUR-USERNAME.github.io/viralos/terms/`
 
 ## Preview locally
 
